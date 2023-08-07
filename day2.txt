@@ -1,4 +1,6 @@
- String nam1 = "amjad ";
+
+//concenet two numbers
+String nam1 = "amjad ";
             String nam2 = "ali ";
             String cont = nam1 + nam2;
             Console.WriteLine(cont);
